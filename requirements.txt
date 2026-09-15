@@ -1,0 +1,9 @@
+fastapi==0.116.1
+httpx==0.28.1
+imageio-ffmpeg==0.6.0
+python-multipart==0.0.20
+pymongo==4.14.1
+dnspython==2.8.0
+python-dotenv==1.1.1
+bcrypt==4.3.0
+PyJWT==2.10.1
